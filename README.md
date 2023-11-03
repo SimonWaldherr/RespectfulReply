@@ -10,5 +10,17 @@ Ob es darum geht, Fake News zu entkräften, Privatsphäre zu schützen oder Bele
 
 Danke, dass du dabei bist und hilfst, das Internet zu einem besseren Ort für uns alle zu machen.
 
+Hier eine Liste der aktuellen Texte:  
+
+* [Body Shaming](bodyshaming.md)
+* [Click Bait](clickbait.md)
+* [Disrespectful](disrespectful.md)
+* [Fake News](fake.md)
+* [Offensive](offensive.md)
+* [Privacy](privacy.md)
+* [Provocative](provocative.md)
+* [Rumors](rumors.md)
+* [Spam](spam.md)
+
 Freundliche Grüße,  
 Simon Waldherr
